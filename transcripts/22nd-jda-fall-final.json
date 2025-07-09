@@ -1,0 +1,113 @@
+{
+  "tournament": {
+    "name": "22nd JDA Fall Tournament",
+    "round": "Final",
+    "date": "2023",
+    "format": "Policy Debate"
+  },
+  "topic": {
+    "resolution": "Minimum Wage Policy",
+    "affirmative_position": "Japan should raise the minimum wage to protect workers",
+    "negative_position": "Critical approach questioning the discourse of 'those who don't work shouldn't eat'"
+  },
+  "teams": {
+    "affirmative": {
+      "team_name": "TBD",
+      "speakers": ["Speaker 1", "Speaker 2"]
+    },
+    "negative": {
+      "team_name": "TBD",
+      "speakers": ["Speaker 1", "Speaker 2"]
+    }
+  },
+  "speeches": {
+    "1AC": {
+      "speaker": "Affirmative Speaker 1",
+      "duration": "8 minutes",
+      "main_arguments": [
+        {
+          "claim": "Raising minimum wage protects workers",
+          "warrants": [
+            "Current wages insufficient for basic living",
+            "Workers deserve dignity and fair compensation"
+          ],
+          "evidence": []
+        }
+      ]
+    },
+    "1NC": {
+      "speaker": "Negative Speaker 1",
+      "duration": "8 minutes",
+      "main_arguments": [
+        {
+          "type": "Critique",
+          "claim": "The discourse of 'those who don't work shouldn't eat' is problematic",
+          "warrants": [
+            "Reinforces harmful capitalist ideology",
+            "Excludes vulnerable populations from consideration"
+          ],
+          "link": "The affirmative's framework assumes work as prerequisite for survival",
+          "impact": "Perpetuates systemic violence against those unable to work"
+        }
+      ]
+    },
+    "2AC": {
+      "speaker": "Affirmative Speaker 2",
+      "duration": "8 minutes",
+      "responses": []
+    },
+    "2NC": {
+      "speaker": "Negative Speaker 2",
+      "duration": "8 minutes",
+      "extensions": []
+    },
+    "1AR": {
+      "speaker": "Affirmative Speaker 1",
+      "duration": "5 minutes",
+      "key_arguments": []
+    },
+    "1NR": {
+      "speaker": "Negative Speaker 1",
+      "duration": "5 minutes",
+      "key_arguments": []
+    },
+    "2AR": {
+      "speaker": "Affirmative Speaker 2",
+      "duration": "5 minutes",
+      "voting_issues": []
+    },
+    "2NR": {
+      "speaker": "Negative Speaker 2",
+      "duration": "5 minutes",
+      "voting_issues": []
+    }
+  },
+  "cross_examinations": {
+    "1AC_CX": {
+      "questioner": "Negative Speaker 2",
+      "respondent": "Affirmative Speaker 1",
+      "key_exchanges": []
+    },
+    "1NC_CX": {
+      "questioner": "Affirmative Speaker 1",
+      "respondent": "Negative Speaker 1",
+      "key_exchanges": []
+    },
+    "2AC_CX": {
+      "questioner": "Negative Speaker 1",
+      "respondent": "Affirmative Speaker 2",
+      "key_exchanges": []
+    },
+    "2NC_CX": {
+      "questioner": "Affirmative Speaker 2",
+      "respondent": "Negative Speaker 2",
+      "key_exchanges": []
+    }
+  },
+  "decision": {
+    "winner": "TBD",
+    "reasoning": [],
+    "key_voting_issues": []
+  },
+  "notes": "This transcript framework is ready to be filled with the complete debate content. The negative team's critique approach represents an interesting shift from traditional policy debate to critical argumentation."
+}

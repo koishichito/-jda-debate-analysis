@@ -1,0 +1,117 @@
+{
+  "tournament": {
+    "name": "Tournament Name",
+    "round": "Round (e.g., Final, Semifinal, Quarterfinal)",
+    "date": "YYYY-MM-DD",
+    "format": "Debate Format (e.g., Policy, Parliamentary)"
+  },
+  "topic": {
+    "resolution": "Full resolution text",
+    "affirmative_position": "What the affirmative must defend",
+    "negative_position": "What the negative argues"
+  },
+  "teams": {
+    "affirmative": {
+      "team_name": "Team/School Name",
+      "speakers": ["Speaker 1 Name", "Speaker 2 Name"]
+    },
+    "negative": {
+      "team_name": "Team/School Name",
+      "speakers": ["Speaker 1 Name", "Speaker 2 Name"]
+    }
+  },
+  "speeches": {
+    "1AC": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "main_arguments": [
+        {
+          "claim": "Main assertion",
+          "warrants": ["Supporting reason 1", "Supporting reason 2"],
+          "evidence": [
+            {
+              "source": "Author, Year",
+              "content": "Quote or paraphrase"
+            }
+          ],
+          "impact": "Why this matters"
+        }
+      ]
+    },
+    "1NC": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "main_arguments": []
+    },
+    "2AC": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "responses": []
+    },
+    "2NC": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "extensions": []
+    },
+    "1AR": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "key_arguments": []
+    },
+    "1NR": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "key_arguments": []
+    },
+    "2AR": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "voting_issues": []
+    },
+    "2NR": {
+      "speaker": "Name",
+      "duration": "X minutes",
+      "voting_issues": []
+    }
+  },
+  "cross_examinations": {
+    "1AC_CX": {
+      "questioner": "Name",
+      "respondent": "Name",
+      "key_exchanges": [
+        {
+          "question": "Question text",
+          "answer": "Answer text",
+          "significance": "Why this exchange matters"
+        }
+      ]
+    },
+    "1NC_CX": {
+      "questioner": "Name",
+      "respondent": "Name",
+      "key_exchanges": []
+    },
+    "2AC_CX": {
+      "questioner": "Name",
+      "respondent": "Name",
+      "key_exchanges": []
+    },
+    "2NC_CX": {
+      "questioner": "Name",
+      "respondent": "Name",
+      "key_exchanges": []
+    }
+  },
+  "decision": {
+    "winner": "Affirmative/Negative",
+    "vote_count": "X-X",
+    "reasoning": [
+      "Key reason 1",
+      "Key reason 2"
+    ],
+    "key_voting_issues": [
+      "Issue that determined the outcome"
+    ]
+  },
+  "notes": "Any additional context or information about this debate"
+}
